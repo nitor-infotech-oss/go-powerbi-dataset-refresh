@@ -1,0 +1,11 @@
+{
+    "jsonfilepath" : "dataset_config.json",
+    "logfilepath"  : "refresh_history_logs.txt",
+    "authorityurl" : "https://login.microsoftonline.com/",
+    "resourceurl"  : "https://analysis.windows.net/powerbi/api",
+    "clientid"     : "c1c04507-9857-44cc-xxxx-xxxxxxxxxxxx",
+    "username"     : "pbiusername",
+    "password"     : "***********",
+    "groupids"     : ["ba34f3fb-e648-4276-xxxx-xxxxxxxxxxxx"],
+    "webhookurl"   : "https://hooks.slack.com/services/TKDC1KVV1/XXXXXXXXXXXXXXX/XXXXXXXXXXXXXXX"
+}

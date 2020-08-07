@@ -1,0 +1,20 @@
+{
+	"config":	[
+		{
+			"ID" : "1",
+			"SubjectArea" : "Power BI Samples",
+			"DataSetName" : "Data Refresh",
+			"RefreshFrequencyType" : "Daily",
+			"RefreshFrequency" : "null",
+			"IsActive" : "1"
+		},
+		{
+			"ID" : "2",
+			"SubjectArea" : "Airline Toolkit",
+			"DataSetName" : "Main",
+			"RefreshFrequencyType" : "Daily",
+			"RefreshFrequency" : "null",
+			"IsActive" : "0"
+		},
+	]
+}

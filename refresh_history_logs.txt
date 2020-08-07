@@ -1,0 +1,3 @@
+
+Power BI Refresh Summary:
+Data Refresh - Completed - 2020-08-06T14:35:33.753ZT10:22:25.383Z
